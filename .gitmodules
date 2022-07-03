@@ -1,0 +1,3 @@
+[submodule "imgtool"]
+	path = imgtool
+	url = git@github.com:LogicEu/imgtool.git
